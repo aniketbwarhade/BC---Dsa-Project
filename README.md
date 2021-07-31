@@ -1,2 +1,2 @@
-# BC---Dsa-Project
+# BC Dsa-Project
 Arbitrary Precision Binary Calculator
